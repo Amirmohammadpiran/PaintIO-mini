@@ -20,7 +20,7 @@ Choose your favorite player and let's start!
 
 ## The Rules:
 
-**1-** If you come back to your house,
+**1-** If you come back to your territory,
 the houses surrended by your path, WILL BECOME YOURS!!!
 
 For example:
@@ -38,3 +38,15 @@ For example:
 ![kill](Screenshot-enemy.png)
 
 By the way, this is a mini version that implements only the basics of the game!
+
+## How to run?!
+
+Just compile the PaintIO.java with this command:
+
+``` javac PaintIO.java ```
+
+And run it with:
+
+``` java PaintIO ```
+
+**Have fun!**
