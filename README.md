@@ -41,12 +41,16 @@ By the way, this is a mini version that implements only the basics of the game!
 
 ## How to run?!
 
-Just compile the PaintIO.java with this command:
+Just compile the paintIO.java with this command:
 
-``` javac PaintIO.java ```
+```
+javac paintIO.java
+```
 
 And run it with:
 
-``` java PaintIO ```
+```
+java paintIO
+```
 
 **Have fun!**
